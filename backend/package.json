@@ -48,7 +48,7 @@
     "envkey": "^1.2.8",
     "ethereumjs-util": "^7.0.7",
     "ethers": "5.0.29",
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "express-promise-router": "4.0.1",
     "express-session": "^1.17.1",
     "fast-crc32c": "^2.0.0",
