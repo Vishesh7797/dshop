@@ -20,7 +20,7 @@
   "dependencies": {
     "commander": "^7.0.0",
     "ganache-core": "2.13.2",
-    "ipfs": "^0.54.0",
+    "ipfs": "^0.66.1",
     "memdown": "^5.1.0"
   },
   "devDependencies": {
