@@ -37,7 +37,7 @@
   "author": "Nick Poulden <nick@originprotocol.com>",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-transform-flow-strip-types": "^7.12.10",
     "@babel/preset-react": "^7.12.10",
     "@babel/register": "^7.12.10",
